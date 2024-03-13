@@ -1,0 +1,12 @@
+.AddMovie, .Register, .Login{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 80%;
+    width: 30%;
+    flex-wrap: wrap;
+    box-shadow: 0 0 10px black;
+    min-width: 300px;
+    border-radius: 15px;
+}
